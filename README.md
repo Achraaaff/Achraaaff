@@ -1,33 +1,27 @@
-# Achraf
+![Achraf — software developer](assets/header.svg)
 
-**Full-stack developer** · Nador, Morocco
+### I make digital experiences feel as good as they work.
 
-I build practical web products, from clear interfaces to the APIs and data behind them. I care about accessibility, thoughtful details, and software that works well in everyday use.
+Independent software developer based in Nador, Morocco. I build web and mobile experiences where thoughtful design meets reliable engineering — from the first interaction to the systems behind it.
 
-[LinkedIn](https://www.linkedin.com/in/achraf-mouhssin-3a661342a/) · [Email](mailto:mouhsinachraf1@gmail.com)
+**[Portfolio ↗](https://achraf-mouhssin.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/achraf-mouhssin-3a661342a/) · [Email](mailto:mouhsinachraf@gmail.com)
 
-## Selected work
+---
 
-### [Yuki's Café](https://github.com/Achraaaff/Yuki-s) · [Live site](https://yuki-s-six.vercel.app)
+### Selected work
 
-A responsive website for a café in Nador, with a menu and smooth interactions. Built with **Next.js**, **TypeScript**, and **GSAP**.
+| Project | The idea | Explore |
+| :--- | :--- | :--- |
+| **Yuki's Café** | An editorial café experience with animated menu discovery and smooth, tactile interactions. | [Live site](https://yuki-s-six.vercel.app/) · [Code](https://github.com/Achraaaff/Yuki-s) |
+| **Stagiaire** | A full-stack internship platform connecting local students and companies through listings, applications, and direct messages. | [Live site](https://stagiaire-zeta.vercel.app/) · [Code](https://github.com/Achraaaff/Stagiaire) |
+| **وِرد · Wird** | An Arabic-first daily dhikr app with offline use, progress tracking, sync, and a multilingual interface. | [Live app](https://wird-islamic.vercel.app/) · [Code](https://github.com/Achraaaff/Wird) |
 
-### [وِرد — Wird](https://github.com/Achraaaff/Wird) · [Live app](https://wird-islamic.vercel.app/)
+### What I bring to a project
 
-An Arabic-first daily adhkar app that works offline and supports Arabic, French, and English. Built with **Next.js**, **IndexedDB**, and **Supabase**.
+- **Frontend & interaction:** TypeScript, React, Next.js, GSAP
+- **Backend & data:** Node.js, NestJS, Prisma, Supabase
+- **Approach:** design-aware, full-stack, focused on the details people notice
 
-### [Stagiaire](https://github.com/Achraaaff/Stagiaire)
+Computer Science & AI graduate · Web & Mobile Application Development background.
 
-An internship platform for students and companies, covering opportunities, applications, and messaging. Built with **Next.js**, **NestJS**, and **Prisma**.
-
-## What I work with
-
-- **Interfaces:** React, Next.js, TypeScript
-- **APIs:** Node.js, NestJS
-- **Data:** PostgreSQL, MySQL, Prisma, Supabase
-
-## Background
-
-Computer Science & Artificial Intelligence graduate from Faculté Pluridisciplinaire de Nador (2026), with a DUT in Web & Mobile Application Development from EST Nador (2023–2025).
-
-Open to junior full-stack roles and collaborations. [Get in touch](mailto:mouhsinachraf1@gmail.com).
+**Have a project in mind?** [Let's talk ↗](mailto:mouhsinachraf@gmail.com)
